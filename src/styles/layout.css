@@ -1,0 +1,240 @@
+.layout.study-layout {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr) minmax(320px, 0.9fr);
+  height: 100vh;
+  overflow: hidden;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #111827;
+  background: #f3f4f6;
+}
+
+.study-sidebar,
+.study-main,
+.study-aside {
+  min-width: 0;
+}
+
+.study-sidebar {
+  border-right: 1px solid #e5e7eb;
+  padding: 1rem;
+  background: #f8fafc;
+  overflow-y: auto;
+}
+
+.study-sidebar-header {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.study-mode-button {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #1f2937;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+}
+
+.study-mode-button:hover {
+  background: #f9fafb;
+  border-color: #cbd5e1;
+}
+
+.study-mode-button.is-active {
+  border-color: #94a3b8;
+  background: #eef2f7;
+}
+
+.study-theme-section {
+  display: grid;
+  gap: 1rem;
+}
+
+.study-theme-group {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.study-theme-heading {
+  color: #334155;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.study-theme-button {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #1f2937;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+}
+
+.study-theme-button:hover {
+  background: #f8fafc;
+  border-color: #cbd5e1;
+}
+
+.study-theme-button.is-active {
+  border-color: #94a3b8;
+  background: #eff6ff;
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.study-main {
+  padding: 1.25rem;
+  background: #ffffff;
+  overflow: hidden;
+}
+
+.study-main-title {
+  margin: 0 0 1rem;
+  color: #111827;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.study-empty-state {
+  color: #6b7280;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+}
+
+.point-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-height: 100%;
+  overflow-y: auto;
+  padding-right: 0.25rem;
+}
+
+.point-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 0.85rem;
+  background: #ffffff;
+}
+
+.point-card:hover {
+  border-color: #cbd5e1;
+  background: #fcfdff;
+}
+
+.point-title {
+  margin-bottom: 0.65rem;
+  color: #111827;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.point-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.action-button {
+  width: auto;
+  margin: 0;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #d1d5db;
+  border-radius: 7px;
+  background: #f8fafc;
+  color: #334155;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.3;
+  cursor: pointer;
+}
+
+.action-button:hover {
+  background: #eef2f7;
+  border-color: #cbd5e1;
+}
+
+.point-html-view {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.back-to-points-button {
+  width: fit-content;
+  margin: 0 0 0.75rem;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background: #f8fafc;
+  color: #334155;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.back-to-points-button:hover {
+  background: #eef2f7;
+  border-color: #cbd5e1;
+}
+
+.point-html-frame {
+  flex: 1;
+  width: 100%;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.study-aside {
+  border-left: 1px solid #e5e7eb;
+  padding: 1.25rem;
+  background: #f9fafb;
+  overflow-y: auto;
+}
+
+.auxiliary-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  background: #ffffff;
+  padding: 1rem;
+}
+
+.auxiliary-label {
+  margin: 0 0 0.45rem;
+  color: #64748b;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.auxiliary-message {
+  margin: 0;
+  color: #111827;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+}
+
+.study-mode-button:focus-visible,
+.study-theme-button:focus-visible,
+.action-button:focus-visible,
+.back-to-points-button:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
