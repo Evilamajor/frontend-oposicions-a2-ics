@@ -26,11 +26,11 @@ export default function HomePage() {
         <div className="home-left-column">
           <article className="home-card home-card-primary" onClick={() => navigate('/temari')}>
             <div className="ics-logo-slot" aria-hidden="true">
-              <span>ICS</span>
-            </div>
-            <div className="home-card-content">
-              <h2>Temari ICS: Part transversal</h2>
-              <p>Base comuna normativa, institucional i competencial.</p>
+              <img
+                src={`${import.meta.env.BASE_URL}assets/logos/imatgelogo.png`}
+                alt="Temari ICS: Part transversal"
+                className="home-card-logo"
+              />
             </div>
           </article>
 
