@@ -1,0 +1,11 @@
+{
+  "id": "t11-p6",
+  "title": "Administració electrònica: concepte i principis generals",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

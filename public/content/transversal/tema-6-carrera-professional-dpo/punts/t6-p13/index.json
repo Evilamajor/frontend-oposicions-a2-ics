@@ -1,0 +1,11 @@
+{
+  "id": "t6-p13",
+  "title": "Relació entre carrera professional, DPO i qualitat del servei públic sanitari",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

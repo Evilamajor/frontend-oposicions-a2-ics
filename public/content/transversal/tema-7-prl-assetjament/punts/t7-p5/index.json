@@ -1,0 +1,11 @@
+{
+  "id": "t7-p5",
+  "title": "Organització de la prevenció: servei de prevenció, delegats i comitè de seguretat i salut",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

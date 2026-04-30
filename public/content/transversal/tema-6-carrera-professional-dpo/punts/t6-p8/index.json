@@ -1,0 +1,11 @@
+{
+  "id": "t6-p8",
+  "title": "Formació continuada i desenvolupament competencial",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

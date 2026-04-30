@@ -1,0 +1,11 @@
+{
+  "id": "t6-p3",
+  "title": "Finalitats de la carrera professional: reconeixement, motivació i qualitat assistencial",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

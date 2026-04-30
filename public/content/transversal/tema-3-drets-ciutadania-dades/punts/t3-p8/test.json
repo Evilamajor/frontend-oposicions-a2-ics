@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Quin principi exigeix tractar només les dades necessàries?",
+      "options": [
+        "Exactitud",
+        "Minimització de dades",
+        "Transparència",
+        "Conservació"
+      ],
+      "answer": 1
+    }
+  ]
+}

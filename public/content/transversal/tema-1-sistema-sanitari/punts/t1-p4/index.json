@@ -1,0 +1,11 @@
+{
+  "id": "t1-p4",
+  "title": "El Sistema Sanitari Integral d’Utilització Pública de Catalunya (SISCAT)",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

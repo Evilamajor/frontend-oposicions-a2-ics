@@ -1,0 +1,86 @@
+{
+  "id": "tema-11",
+  "slug": "tema-11-ofimatica-administracio-electronica",
+  "title": "Tema 11 — Ofimàtica + administració electrònica",
+  "type": "transversal",
+  "points": [
+    {
+      "id": "t11-p1",
+      "order": 1,
+      "title": "Marc general de les competències digitals en l'Administració pública",
+      "path": "punts/t11-p1/index.json"
+    },
+    {
+      "id": "t11-p2",
+      "order": 2,
+      "title": "Eines ofimàtiques bàsiques: processador de textos, full de càlcul i presentacions",
+      "path": "punts/t11-p2/index.json"
+    },
+    {
+      "id": "t11-p3",
+      "order": 3,
+      "title": "Gestió de documents digitals i organització de la informació",
+      "path": "punts/t11-p3/index.json"
+    },
+    {
+      "id": "t11-p4",
+      "order": 4,
+      "title": "Correu electrònic, agenda i eines col·laboratives",
+      "path": "punts/t11-p4/index.json"
+    },
+    {
+      "id": "t11-p5",
+      "order": 5,
+      "title": "Seguretat bàsica en l'ús d'eines digitals i bones pràctiques",
+      "path": "punts/t11-p5/index.json"
+    },
+    {
+      "id": "t11-p6",
+      "order": 6,
+      "title": "Administració electrònica: concepte i principis generals",
+      "path": "punts/t11-p6/index.json"
+    },
+    {
+      "id": "t11-p7",
+      "order": 7,
+      "title": "Dret i obligació de relacionar-se electrònicament amb l'Administració",
+      "path": "punts/t11-p7/index.json"
+    },
+    {
+      "id": "t11-p8",
+      "order": 8,
+      "title": "Seu electrònica, registre electrònic i notificacions electròniques",
+      "path": "punts/t11-p8/index.json"
+    },
+    {
+      "id": "t11-p9",
+      "order": 9,
+      "title": "Identificació i signatura electrònica",
+      "path": "punts/t11-p9/index.json"
+    },
+    {
+      "id": "t11-p10",
+      "order": 10,
+      "title": "Expedient administratiu electrònic i document administratiu electrònic",
+      "path": "punts/t11-p10/index.json"
+    },
+    {
+      "id": "t11-p11",
+      "order": 11,
+      "title": "Interoperabilitat, arxiu electrònic i reutilització de la informació",
+      "path": "punts/t11-p11/index.json"
+    },
+    {
+      "id": "t11-p12",
+      "order": 12,
+      "title": "Protecció de dades i confidencialitat en entorns digitals",
+      "path": "punts/t11-p12/index.json"
+    },
+    {
+      "id": "t11-p13",
+      "order": 13,
+      "title": "Relació entre transformació digital, eficiència administrativa i qualitat del servei públic",
+      "path": "punts/t11-p13/index.json"
+    }
+  ]
+}

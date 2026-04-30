@@ -1,0 +1,11 @@
+{
+  "id": "t7-p12",
+  "title": "Protocols d'actuació davant l'assetjament i mesures de protecció",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

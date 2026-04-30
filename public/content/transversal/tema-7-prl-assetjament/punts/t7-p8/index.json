@@ -1,0 +1,11 @@
+{
+  "id": "t7-p8",
+  "title": "Vigilància de la salut i protecció de col·lectius especialment sensibles",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

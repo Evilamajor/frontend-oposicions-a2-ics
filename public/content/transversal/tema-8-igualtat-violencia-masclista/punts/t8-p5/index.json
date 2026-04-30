@@ -1,0 +1,11 @@
+{
+  "id": "t8-p5",
+  "title": "Transversalitat de la perspectiva de gènere en l'Administració pública",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

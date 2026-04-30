@@ -1,0 +1,11 @@
+{
+  "id": "t8-p10",
+  "title": "Paper del sistema sanitari en la detecció, atenció i derivació",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Test del punt",
+  "questions": [
+    {
+      "question": "Quina norma regula el personal estatutari dels serveis de salut?",
+      "options": [
+        "Llei 55/2003",
+        "TREBEP",
+        "Llei 39/2015",
+        "Llei 40/2015"
+      ],
+      "answer": 0
+    }
+  ]
+}

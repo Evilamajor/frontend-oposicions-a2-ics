@@ -1,0 +1,11 @@
+{
+  "id": "t11-p8",
+  "title": "Seu electrònica, registre electrònic i notificacions electròniques",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

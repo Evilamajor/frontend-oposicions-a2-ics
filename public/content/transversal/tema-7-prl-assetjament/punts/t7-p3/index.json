@@ -1,0 +1,11 @@
+{
+  "id": "t7-p3",
+  "title": "Drets i deures del personal en matèria de prevenció",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

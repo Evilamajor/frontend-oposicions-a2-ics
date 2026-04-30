@@ -1,0 +1,11 @@
+{
+  "id": "t11-p13",
+  "title": "Relació entre transformació digital, eficiència administrativa i qualitat del servei públic",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

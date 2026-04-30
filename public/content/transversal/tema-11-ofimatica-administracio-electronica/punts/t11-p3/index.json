@@ -1,0 +1,11 @@
+{
+  "id": "t11-p3",
+  "title": "Gestió de documents digitals i organització de la informació",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

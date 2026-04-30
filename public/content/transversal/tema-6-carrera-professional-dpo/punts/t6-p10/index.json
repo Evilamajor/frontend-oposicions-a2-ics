@@ -1,0 +1,11 @@
+{
+  "id": "t6-p10",
+  "title": "DPO: concepte i funció dins l'organització sanitària",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

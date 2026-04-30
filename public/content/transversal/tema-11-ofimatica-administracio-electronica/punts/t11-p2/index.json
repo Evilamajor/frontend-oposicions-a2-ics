@@ -1,0 +1,11 @@
+{
+  "id": "t11-p2",
+  "title": "Eines ofimàtiques bàsiques: processador de textos, full de càlcul i presentacions",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

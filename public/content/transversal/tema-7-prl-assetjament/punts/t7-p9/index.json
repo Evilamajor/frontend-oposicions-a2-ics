@@ -1,0 +1,11 @@
+{
+  "id": "t7-p9",
+  "title": "Formació, informació i participació del personal",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}
