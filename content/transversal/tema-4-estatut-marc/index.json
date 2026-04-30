@@ -1,0 +1,14 @@
+{
+  "id": "tema-4",
+  "slug": "tema-4-estatut-marc",
+  "title": "Tema 4 - Estatut marc",
+  "type": "transversal",
+  "points": [
+    {
+      "id": "t4-p1",
+      "order": 1,
+      "title": "Marc general de l'Estatut marc del personal estatutari",
+      "path": "punts/t4-p1/index.json"
+    }
+  ]
+}

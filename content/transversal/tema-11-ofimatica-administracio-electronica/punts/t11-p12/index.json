@@ -1,0 +1,11 @@
+{
+  "id": "t11-p12",
+  "title": "Protecció de dades i confidencialitat en entorns digitals",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

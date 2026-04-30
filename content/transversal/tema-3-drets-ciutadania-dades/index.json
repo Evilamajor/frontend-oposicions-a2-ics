@@ -1,0 +1,20 @@
+{
+  "id": "tema-3",
+  "slug": "tema-3-drets-ciutadania-dades",
+  "title": "Tema 3 — Drets de la ciutadania + protecció de dades",
+  "type": "transversal",
+  "points": [
+    { "id": "t3-p1", "order": 1, "title": "Concepte de drets de la ciutadania", "path": "punts/t3-p1/index.json" },
+    { "id": "t3-p2", "order": 2, "title": "Marc normatiu dels drets", "path": "punts/t3-p2/index.json" },
+    { "id": "t3-p3", "order": 3, "title": "Drets dels pacients", "path": "punts/t3-p3/index.json" },
+    { "id": "t3-p4", "order": 4, "title": "Deures dels ciutadans", "path": "punts/t3-p4/index.json" },
+    { "id": "t3-p5", "order": 5, "title": "Informació i consentiment informat", "path": "punts/t3-p5/index.json" },
+    { "id": "t3-p6", "order": 6, "title": "Intimitat i confidencialitat", "path": "punts/t3-p6/index.json" },
+    { "id": "t3-p7", "order": 7, "title": "Introducció a la protecció de dades", "path": "punts/t3-p7/index.json" },
+    { "id": "t3-p8", "order": 8, "title": "Principis del RGPD", "path": "punts/t3-p8/index.json" },
+    { "id": "t3-p9", "order": 9, "title": "Drets en protecció de dades", "path": "punts/t3-p9/index.json" },
+    { "id": "t3-p10", "order": 10, "title": "Obligacions del responsable", "path": "punts/t3-p10/index.json" },
+    { "id": "t3-p11", "order": 11, "title": "Protecció de dades sanitàries", "path": "punts/t3-p11/index.json" },
+    { "id": "t3-p12", "order": 12, "title": "Seguretat i responsabilitat", "path": "punts/t3-p12/index.json" }
+  ]
+}

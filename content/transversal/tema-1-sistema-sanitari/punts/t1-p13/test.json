@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Què és el Pla de Salut de Catalunya?",
+      "options": [
+        "Una llei estatal",
+        "Un instrument de planificació sanitària",
+        "Un hospital",
+        "Un organisme gestor"
+      ],
+      "answer": 1
+    }
+  ]
+}

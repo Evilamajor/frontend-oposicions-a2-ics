@@ -1,0 +1,86 @@
+{
+  "id": "tema-6",
+  "slug": "tema-6-carrera-professional-dpo",
+  "title": "Tema 6 — Carrera professional + DPO",
+  "type": "transversal",
+  "points": [
+    {
+      "id": "t6-p1",
+      "order": 1,
+      "title": "Marc general de la carrera professional en l'àmbit sanitari",
+      "path": "punts/t6-p1/index.json"
+    },
+    {
+      "id": "t6-p2",
+      "order": 2,
+      "title": "Concepte de carrera professional del personal estatutari",
+      "path": "punts/t6-p2/index.json"
+    },
+    {
+      "id": "t6-p3",
+      "order": 3,
+      "title": "Finalitats de la carrera professional: reconeixement, motivació i qualitat assistencial",
+      "path": "punts/t6-p3/index.json"
+    },
+    {
+      "id": "t6-p4",
+      "order": 4,
+      "title": "Modalitats de desenvolupament professional: carrera, promoció i formació",
+      "path": "punts/t6-p4/index.json"
+    },
+    {
+      "id": "t6-p5",
+      "order": 5,
+      "title": "Graus o nivells de carrera professional",
+      "path": "punts/t6-p5/index.json"
+    },
+    {
+      "id": "t6-p6",
+      "order": 6,
+      "title": "Requisits generals per accedir als diferents nivells",
+      "path": "punts/t6-p6/index.json"
+    },
+    {
+      "id": "t6-p7",
+      "order": 7,
+      "title": "Avaluació de mèrits, competències i activitat professional",
+      "path": "punts/t6-p7/index.json"
+    },
+    {
+      "id": "t6-p8",
+      "order": 8,
+      "title": "Formació continuada i desenvolupament competencial",
+      "path": "punts/t6-p8/index.json"
+    },
+    {
+      "id": "t6-p9",
+      "order": 9,
+      "title": "Efectes econòmics i professionals de la carrera professional",
+      "path": "punts/t6-p9/index.json"
+    },
+    {
+      "id": "t6-p10",
+      "order": 10,
+      "title": "DPO: concepte i funció dins l'organització sanitària",
+      "path": "punts/t6-p10/index.json"
+    },
+    {
+      "id": "t6-p11",
+      "order": 11,
+      "title": "Objectius individuals, d'equip i institucionals",
+      "path": "punts/t6-p11/index.json"
+    },
+    {
+      "id": "t6-p12",
+      "order": 12,
+      "title": "Avaluació del compliment d'objectius i impacte retributiu",
+      "path": "punts/t6-p12/index.json"
+    },
+    {
+      "id": "t6-p13",
+      "order": 13,
+      "title": "Relació entre carrera professional, DPO i qualitat del servei públic sanitari",
+      "path": "punts/t6-p13/index.json"
+    }
+  ]
+}

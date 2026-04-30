@@ -1,0 +1,21 @@
+{
+  "id": "tema-1",
+  "slug": "tema-1-sistema-sanitari",
+  "title": "Tema 1 — Sistema sanitari / SISCAT",
+  "type": "transversal",
+  "points": [
+    { "id": "t1-p1", "order": 1, "title": "Concepte del sistema sanitari", "path": "punts/t1-p1/index.json" },
+    { "id": "t1-p2", "order": 2, "title": "Principis del sistema sanitari", "path": "punts/t1-p2/index.json" },
+    { "id": "t1-p3", "order": 3, "title": "Marc normatiu sanitari", "path": "punts/t1-p3/index.json" },
+    { "id": "t1-p4", "order": 4, "title": "El SISCAT", "path": "punts/t1-p4/index.json" },
+    { "id": "t1-p5", "order": 5, "title": "Estructura del SISCAT", "path": "punts/t1-p5/index.json" },
+    { "id": "t1-p6", "order": 6, "title": "Proveïdors del sistema sanitari", "path": "punts/t1-p6/index.json" },
+    { "id": "t1-p7", "order": 7, "title": "CatSalut", "path": "punts/t1-p7/index.json" },
+    { "id": "t1-p8", "order": 8, "title": "Ordenació territorial", "path": "punts/t1-p8/index.json" },
+    { "id": "t1-p9", "order": 9, "title": "Nivells assistencials", "path": "punts/t1-p9/index.json" },
+    { "id": "t1-p10", "order": 10, "title": "Cartera de serveis", "path": "punts/t1-p10/index.json" },
+    { "id": "t1-p11", "order": 11, "title": "Drets dels ciutadans", "path": "punts/t1-p11/index.json" },
+    { "id": "t1-p12", "order": 12, "title": "Qualitat i coordinació assistencial", "path": "punts/t1-p12/index.json" },
+    { "id": "t1-p13", "order": 13, "title": "Planificació sanitària i Pla de Salut de Catalunya", "path": "punts/t1-p13/index.json" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "t8-p11",
+  "title": "Coordinació institucional i circuits d'atenció",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

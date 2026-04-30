@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Pregunta inicial de validació per al punt 10.",
+      "options": [
+        "Opció A",
+        "Opció B",
+        "Opció C",
+        "Opció D"
+      ],
+      "answer": 0
+    }
+  ]
+}

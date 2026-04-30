@@ -1,0 +1,11 @@
+{
+  "id": "t11-p1",
+  "title": "Marc general de les competències digitals en l'Administració pública",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

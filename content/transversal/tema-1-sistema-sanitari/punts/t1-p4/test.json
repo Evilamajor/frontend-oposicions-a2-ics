@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Què és el SISCAT?",
+      "options": [
+        "Sistema sanitari privat",
+        "Sistema públic integrat de Catalunya",
+        "Només hospitals públics",
+        "Només atenció primària"
+      ],
+      "answer": 1
+    }
+  ]
+}

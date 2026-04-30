@@ -1,0 +1,11 @@
+{
+  "id": "t7-p6",
+  "title": "Avaluació de riscos i planificació de l'activitat preventiva",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

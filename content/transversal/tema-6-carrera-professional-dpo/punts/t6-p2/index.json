@@ -1,0 +1,11 @@
+{
+  "id": "t6-p2",
+  "title": "Concepte de carrera professional del personal estatutari",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "t11-p10",
+  "title": "Expedient administratiu electrònic i document administratiu electrònic",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

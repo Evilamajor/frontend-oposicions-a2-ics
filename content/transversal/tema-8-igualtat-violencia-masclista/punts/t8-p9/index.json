@@ -1,0 +1,11 @@
+{
+  "id": "t8-p9",
+  "title": "Actuació dels serveis públics davant la violència masclista",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

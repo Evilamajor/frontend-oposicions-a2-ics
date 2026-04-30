@@ -1,0 +1,11 @@
+{
+  "id": "t11-p9",
+  "title": "Identificació i signatura electrònica",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

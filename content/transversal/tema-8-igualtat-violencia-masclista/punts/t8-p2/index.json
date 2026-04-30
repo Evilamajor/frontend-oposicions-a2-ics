@@ -1,0 +1,11 @@
+{
+  "id": "t8-p2",
+  "title": "Principi d'igualtat i prohibició de discriminació",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

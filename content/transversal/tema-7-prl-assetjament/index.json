@@ -1,0 +1,86 @@
+{
+  "id": "tema-7",
+  "slug": "tema-7-prl-assetjament",
+  "title": "Tema 7 — PRL + assetjament",
+  "type": "transversal",
+  "points": [
+    {
+      "id": "t7-p1",
+      "order": 1,
+      "title": "Marc general de la prevenció de riscos laborals en l'àmbit sanitari",
+      "path": "punts/t7-p1/index.json"
+    },
+    {
+      "id": "t7-p2",
+      "order": 2,
+      "title": "Principis de l'acció preventiva",
+      "path": "punts/t7-p2/index.json"
+    },
+    {
+      "id": "t7-p3",
+      "order": 3,
+      "title": "Drets i deures del personal en matèria de prevenció",
+      "path": "punts/t7-p3/index.json"
+    },
+    {
+      "id": "t7-p4",
+      "order": 4,
+      "title": "Obligacions de l'Administració i responsabilitats preventives",
+      "path": "punts/t7-p4/index.json"
+    },
+    {
+      "id": "t7-p5",
+      "order": 5,
+      "title": "Organització de la prevenció: servei de prevenció, delegats i comitè de seguretat i salut",
+      "path": "punts/t7-p5/index.json"
+    },
+    {
+      "id": "t7-p6",
+      "order": 6,
+      "title": "Avaluació de riscos i planificació de l'activitat preventiva",
+      "path": "punts/t7-p6/index.json"
+    },
+    {
+      "id": "t7-p7",
+      "order": 7,
+      "title": "Riscos específics en l'àmbit sanitari",
+      "path": "punts/t7-p7/index.json"
+    },
+    {
+      "id": "t7-p8",
+      "order": 8,
+      "title": "Vigilància de la salut i protecció de col·lectius especialment sensibles",
+      "path": "punts/t7-p8/index.json"
+    },
+    {
+      "id": "t7-p9",
+      "order": 9,
+      "title": "Formació, informació i participació del personal",
+      "path": "punts/t7-p9/index.json"
+    },
+    {
+      "id": "t7-p10",
+      "order": 10,
+      "title": "Assetjament laboral: concepte, tipologies i elements característics",
+      "path": "punts/t7-p10/index.json"
+    },
+    {
+      "id": "t7-p11",
+      "order": 11,
+      "title": "Assetjament sexual i assetjament per raó de sexe",
+      "path": "punts/t7-p11/index.json"
+    },
+    {
+      "id": "t7-p12",
+      "order": 12,
+      "title": "Protocols d'actuació davant l'assetjament i mesures de protecció",
+      "path": "punts/t7-p12/index.json"
+    },
+    {
+      "id": "t7-p13",
+      "order": 13,
+      "title": "Relació entre PRL, assetjament, clima laboral i qualitat del servei públic",
+      "path": "punts/t7-p13/index.json"
+    }
+  ]
+}

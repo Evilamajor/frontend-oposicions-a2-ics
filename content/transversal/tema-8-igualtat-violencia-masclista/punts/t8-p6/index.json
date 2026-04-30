@@ -1,0 +1,11 @@
+{
+  "id": "t8-p6",
+  "title": "Conciliació, corresponsabilitat i drets vinculats a la vida personal i familiar",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

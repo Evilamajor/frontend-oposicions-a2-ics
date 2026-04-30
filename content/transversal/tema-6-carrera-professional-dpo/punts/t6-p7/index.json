@@ -1,0 +1,11 @@
+{
+  "id": "t6-p7",
+  "title": "Avaluació de mèrits, competències i activitat professional",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

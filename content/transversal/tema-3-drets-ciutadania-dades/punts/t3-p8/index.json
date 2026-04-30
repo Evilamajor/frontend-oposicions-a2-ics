@@ -1,0 +1,11 @@
+{
+  "id": "t3-p8",
+  "title": "Principis del RGPD",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

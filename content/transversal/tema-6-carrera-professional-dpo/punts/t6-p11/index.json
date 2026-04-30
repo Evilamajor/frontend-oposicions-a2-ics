@@ -1,0 +1,11 @@
+{
+  "id": "t6-p11",
+  "title": "Objectius individuals, d'equip i institucionals",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

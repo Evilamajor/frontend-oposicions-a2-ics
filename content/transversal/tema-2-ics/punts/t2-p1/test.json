@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Què és l’ICS?",
+      "options": [
+        "Empresa privada",
+        "Empresa pública",
+        "Organisme estatal",
+        "Fundació"
+      ],
+      "answer": 1
+    }
+  ]
+}

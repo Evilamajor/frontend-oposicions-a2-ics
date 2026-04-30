@@ -1,0 +1,11 @@
+{
+  "id": "t8-p4",
+  "title": "Plans d'igualtat i mesures d'acció positiva",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

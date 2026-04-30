@@ -1,0 +1,11 @@
+{
+  "id": "t11-p4",
+  "title": "Correu electrònic, agenda i eines col·laboratives",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

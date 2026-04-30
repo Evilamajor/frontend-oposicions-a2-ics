@@ -1,0 +1,11 @@
+{
+  "id": "t6-p9",
+  "title": "Efectes econòmics i professionals de la carrera professional",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

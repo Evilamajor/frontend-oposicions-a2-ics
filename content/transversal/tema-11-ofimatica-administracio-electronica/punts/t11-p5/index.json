@@ -1,0 +1,11 @@
+{
+  "id": "t11-p5",
+  "title": "Seguretat bàsica en l'ús d'eines digitals i bones pràctiques",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

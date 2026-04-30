@@ -1,0 +1,11 @@
+{
+  "id": "t6-p1",
+  "title": "Marc general de la carrera professional en l'àmbit sanitari",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

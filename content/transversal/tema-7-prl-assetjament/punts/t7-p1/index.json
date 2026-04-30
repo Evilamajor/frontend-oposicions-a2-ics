@@ -1,0 +1,11 @@
+{
+  "id": "t7-p1",
+  "title": "Marc general de la prevenció de riscos laborals en l'àmbit sanitari",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}

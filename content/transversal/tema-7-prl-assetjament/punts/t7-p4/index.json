@@ -1,0 +1,11 @@
+{
+  "id": "t7-p4",
+  "title": "Obligacions de l'Administració i responsabilitats preventives",
+  "resources": {
+    "summary": "summary.html",
+    "scorm": "scorm.html",
+    "algor": "algor.html",
+    "norm": "norm.json",
+    "test": "test.json"
+  }
+}
